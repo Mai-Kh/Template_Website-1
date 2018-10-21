@@ -6,3 +6,4 @@
 <!ELEMENT company (#PCDATA)>
 <!ELEMENT title (#PCDATA)>
 <!ATTLIST phone type (mobile|work|home)(#REQUIRED)>
+
