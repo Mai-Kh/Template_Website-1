@@ -1,0 +1,8 @@
+<?xml version=1.0 encoding="utf-8"?>
+<!ELEMENT contactform (Name, email?, address, company, title, phone+)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT company (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST phone type (mobile|work|home)(#REQUIRED)>
