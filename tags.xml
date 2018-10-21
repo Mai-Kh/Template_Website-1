@@ -1,10 +1,10 @@
-<!DOCTYPE contactform "contactform.dtd">
+<!DOCTYPE contactform SYSTEM "contactform.dtd">
 <contactform>
 	<name>Nicole Pieper</name>
 	<email>franc219@umn.edu</email>
 	<address>13412 Basswood Ln, Rogers, MN, 55374</address>
-	<RSM US LLP</company>
+	<company> RSM US LLP</company>
 	<title>Communications Associate</title>
-	<phonetype="home">612.210.8095</phone>
-	<phonetype="work">123.456.7890</phone>
+	<phone type="home">612.210.8095</phone>
+	<phone type="work">123.456.7890</phone>
 </contactform>
